@@ -1,6 +1,6 @@
 import os
-import tkinter as tk
-from tkinter import filedialog
+import tk
+from tk import filedialog
 
 import streamlit as st
 
