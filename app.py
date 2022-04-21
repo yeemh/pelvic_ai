@@ -123,5 +123,5 @@ def run(img_dir, labels):
 
 
 if __name__ == "__main__":
-    custom_labels = ["fracture", "dog", "cat"]
+    custom_labels = ["fracture"]
     run("img_dir", custom_labels)
